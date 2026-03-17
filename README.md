@@ -186,7 +186,7 @@ Combining NDWI with Random Forest significantly improves water detection by:
 
 You can find the implementation here:
 
-👉 [View Script](gee_script.js)
+👉 [View Script]([gee_script.js](https://code.earthengine.google.com/a69d421fd71f4cfd81a359f3fedae7d0))
 
 ---
 
